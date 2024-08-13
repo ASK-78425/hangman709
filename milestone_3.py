@@ -1,10 +1,6 @@
 # %%
 # Import word variable
 from milestone_2 import word
-print(word)
-
-# %%
-# Check whether guess is in the word
 
 # %%
 # Combine into functions
